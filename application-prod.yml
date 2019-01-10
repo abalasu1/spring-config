@@ -1,2 +1,2 @@
-user:
-    role: Prod
+fortune:
+  fallbackFortune: Your future is unclear.
